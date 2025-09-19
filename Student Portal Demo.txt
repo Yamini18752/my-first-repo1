@@ -1,0 +1,15 @@
+The Student Portal will act as a centralized platform for students, where they can:
+
+ Login/Signup – Secure authentication for each student.
+
+ Profile Management – View and update personal details.
+
+ Courses & Subjects – Access course details, materials, and assignments.
+
+ Attendance Tracking – Check attendance records.
+
+ Grades & Results – View marks, progress, and performance reports.
+
+ Notices & Announcements – Get important updates from the college/university.
+
+ Feedback/Queries – Students can submit queries or feedback online
